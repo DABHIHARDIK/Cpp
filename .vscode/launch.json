@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/hardikdabhi/Documents/Git_program/Cpp",
+      "program": "/Users/hardikdabhi/Documents/Git_program/Cpp/build/Debug/outDebug"
+    }
+  ]
+}
